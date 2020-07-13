@@ -60,7 +60,7 @@ class persona:
     nombre = "Rose Park Chaeyoung"
     edad = 23
     genero = "Female"
-    nacionalidad = "Korean"
+    nacionalidad = "neozelandesa"
     Rute = "https://i.pinimg.com/originals/9f/03/b8/9f03b815508309bd6d3951364c0baff9.jpg"
 
 class persona2:
@@ -68,7 +68,7 @@ class persona2:
     nombre = "Lalisa Manoban"
     edad = 23
     genero = "Female"
-    nacionalidad = "korean"
+    nacionalidad = "tailandesa"
     rute = "https://vz.cnwimg.com/thumb-1200x/wp-content/uploads/2019/07/lm.jpg"
 
 class persona3:
@@ -76,7 +76,7 @@ class persona3:
     nombre = "Kim Jisoo"
     edad = 25
     genero = "Female"
-    nacionalidad = "korean"
+    nacionalidad = "coreana"
     rute = "https://vignette.wikia.nocookie.net/kpop/images/d/d8/Kim_Ji_Soo_para_How_You_Like_That.jpg/revision/latest/top-crop/width/360/height/450?cb=20200618005301&path-prefix=es"
 
 class Rapper(persona2):
